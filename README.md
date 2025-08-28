@@ -1,63 +1,52 @@
-# 👋 Hi there, I'm Mrinal Parasar
+# Hi 👋, I'm Mrinal!
+
+A passionate **Full Stack Developer** from **Bangalore, India** 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=MrinalParasar&style=for-the-badge&color=00D4AA&label=Profile+Views" alt="Profile Views" />
+  <a href="https://www.buymeacoffee.com/mrinalparasar" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 </div>
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **Full Stack Web Applications**
+- 🌱 I'm currently learning **Advanced TypeScript, React Patterns, and Cloud Deployment**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🤝 I'm looking for help with **System Design and Architecture**
+- 💬 Ask me about **React, TypeScript, Node.js, and Web Development**
+- 📫 How to reach me: **prashar.mrinal8888@gmail.com**
+- ⚡ Fun fact: **I can debug code while sleeping 😴**
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrinalParasar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrinalParasar&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
-## 🚀 About Me
-
-```javascript
-const developer = {
-  name: "Mrinal Parasar",
-  role: "Full Stack Developer",
-  location: "Bangalore, India",
-  interests: ["Web Development", "Open Source", "JavaScript/TypeScript", "Cloud Computing"],
-  currentlyLearning: "Advanced TypeScript & Modern Web Technologies",
-  funFact: "I can debug code while sleeping 😴"
-};
-```
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrinalParasar&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&area_opacity=0.1" alt="GitHub Activity Graph" />
-</div>
-
-## 🏆 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinalParasar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8&exclude_repo=MrinalParasar" alt="Top Languages" />
 </div>
 
 ## 🎯 Featured Projects
@@ -104,19 +93,13 @@ A modern web application built with TypeScript and React, featuring advanced fun
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/?username=MrinalParasar&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&area=true&area_color=00D4AA&area_opacity=0.1" alt="Contribution Graph" />
-</div>
-
-## 🏅 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrinalParasar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
 <div align="center">
   <a href="https://linkedin.com/in/mrinal-parasar" target="_blank">
@@ -131,6 +114,9 @@ A modern web application built with TypeScript and React, featuring advanced fun
   <a href="mailto:prashar.mrinal8888@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/MrinalParasar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ## 🎯 Current Goals
@@ -143,17 +129,6 @@ A modern web application built with TypeScript and React, featuring advanced fun
 - [ ] Develop more full-stack applications
 - [ ] Learn cloud deployment (AWS/Vercel)
 - [ ] Contribute to major open-source frameworks
-
-## 📊 Weekly Development Breakdown
-
-```mermaid
-pie title This Week's Development Focus
-    "Frontend Development" : 45
-    "Backend Development" : 25
-    "Open Source Contributions" : 15
-    "Learning & Research" : 10
-    "Code Review & Testing" : 5
-```
 
 ## 🎉 Fun Facts
 
@@ -169,8 +144,6 @@ pie title This Week's Development Focus
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrinalParasar&style=flat-square&color=00D4AA" alt="Profile Views" />
-  
   **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just have a chat about tech! 🚀**
   
   <br>
