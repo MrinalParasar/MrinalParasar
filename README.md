@@ -47,6 +47,18 @@
     </a>
 </div>
 
+## 📊 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrinalParasar&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&area_opacity=0.1" alt="GitHub Activity Graph" />
+</div>
+
+## 📅 Contribution Calendar
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrinalParasar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA&include_all_commits=true&count_private=true&custom_title=Mrinal%20Parasar%27s%20GitHub%20Stats&hide=contribs,issues&card_width=400" alt="GitHub Stats" />
+</div>
+
 ---
 
 <p align="center">
