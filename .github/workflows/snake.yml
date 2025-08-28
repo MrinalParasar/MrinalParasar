@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -23,6 +26,8 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           gif_out_path: dist/ocean.gif
           snake_color: '00D4AA'
+          snake_outline: 'true'
+          snake_speed: '10'
 
       - uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
